@@ -1,17 +1,23 @@
 ## Hi there, I'm Jens Larsen👋
-I'm a driven and versatile student with a passion for web development, programming and design. I'm currently pursuing a Bachelor of Philosophy degree in Computer Science and Information Architecture at Malmö University.
+I'm a recently graduated software developer with a Bachelor's degree in Information Architecture from Malmö University (June 2025). I have hands-on experience in building full-stack systems, working with agile methodologies, and translating real-world requirements into functional, scalable applications.
 
 👩‍💻 Technical Skills
 
 My technical skillset includes:
-- Programming Languages: Python 🐍 and TypeScript/JavaScript.
-- Web Technologies: HTML5, CSS, JSON, Various SQL Servers 🌐.
+- Languages: Python, JavaScript, TypeScript, HTML, CSS
+- Frontend: React, Next.js, Angular
+- Backend: Node.js, REST APIs, GraphQL
+- Databases: SQL
+- DevOps & Tools: Docker, Git, Webpack, npm
+- Testing: Jest, Playwright
+- Data Science: Jupyter Notebook, Scikit-learn
+- Workflow: Agile methods (Scrum)
 
 🔭 Current Projects
 
-I’m currently working on refactoring the code and adding features to the Firefox extension I've built. The extension currently provides the user with a small UI that fetches scheduled basketball games. The user can there select games that they wont to block out on their browser feeds. 
+Right now I'm refactoring a Firefox extension I built that blocks NBA game spoilers on YouTube and other sites. I’m also setting up a self-hosted API and SQL database for it, fed by an automated scraper I’ve built with Python running on a Raspberry Pi. The goal is to have a lightweight, fully automated pipeline that runs daily and keeps the extension up to date without relying on third-party APIs.
 
-🌱 I’m currently taking courses on how to work with data science and machine learning to enhance social and business innovation. 
+🌱 I’m currently taking a course in IOT development. 
 
 🤝 Let's Connect
 
