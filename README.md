@@ -1,27 +1,39 @@
-## Hi there, I'm Jens Larsen👋
-I'm a recently graduated software developer with a Bachelor's degree in Information Architecture from Malmö University (June 2025). I have hands-on experience in building full-stack systems, working with agile methodologies, and translating real-world requirements into functional, scalable applications.
+## Hi there, I'm Jens Larsen 👋
 
-👩‍💻 Technical Skills
+I'm a software engineer who came to code through design. I studied Information
+Architecture at Malmö University, a program that mixes interaction design, systems
+thinking and development. That mix stuck with me. I care as much about how software
+feels to use as about how it's built.
 
-My technical skillset includes:
-- Languages: Python, JavaScript, TypeScript, HTML, CSS
-- Frontend: React, Next.js, Angular
-- Backend: Node.js, REST APIs, GraphQL
-- Databases: SQL
-- DevOps & Tools: Docker, Git, Webpack, npm
-- Testing: Jest, Playwright
-- Data Science: Jupyter Notebook, Scikit-learn
-- Workflow: Agile methods (Scrum)
+Today I work at [Lightbringer](https://lightbringer.com) in Malmö. Most of my time
+goes into designing and building the product that lets our AI agents do real work
+in production. That intersection is what interests me most. Agents are powerful but
+opaque, and good product design is what makes them something people actually trust
+and use.
 
-🔭 Current Projects
+Outside work, when something annoys me enough, I build my way out of it:
 
-Right now I'm refactoring a Firefox extension I built that blocks NBA game spoilers on YouTube and other sites. I’m also setting up a self-hosted API and SQL database for it, fed by an automated scraper I’ve built with Python running on a Raspberry Pi. The goal is to have a lightweight, fully automated pipeline that runs daily and keeps the extension up to date without relying on third-party APIs.
+### 🏀 SpoilerShield
 
-🌱 I’m currently taking a course in IOT development. 
+I'm an NBA fan in a European timezone, which means every game is over before I wake up.
+So I built a system that keeps me spoiler-free until I've watched the replay:
 
-🤝 Let's Connect
+| Repo | What it does |
+|------|--------------|
+| [spoilershield-sports-extension](https://github.com/jenslars/spoilershield-sports-extension) | Firefox extension that hides spoilers on YouTube and other sites |
+| [spoilershield-scraper](https://github.com/jenslars/spoilershield-scraper) | Python scraper that fetches game schedules, runs daily on a Raspberry Pi |
+| [spoilershield-database-worker](https://github.com/jenslars/spoilershield-database-worker) | API + SQL database the extension reads from |
+| [spoilershield-image-worker](https://github.com/jenslars/spoilershield-image-worker) | Image processing for thumbnails |
 
-Feel free to connect with me on [LinkedIn!](https://www.linkedin.com/in/jens-larsen-2b05a5293/)
+### 🌱 Other things I've built
+
+- [thesis-pvt-predictive-model](https://github.com/jenslars/thesis-pvt-predictive-model): my bachelor's thesis, a predictive model built with Scikit-learn
+- [irrigation-system](https://github.com/jenslars/irrigation-system): an IoT project that waters my plants with a microcontroller
+- [webbtjansterht2023](https://github.com/jenslars/webbtjansterht2023): identifies songs in YouTube videos and adds them to Spotify
+
+### 🤝 Let's Connect
+
+Find me on [LinkedIn](https://www.linkedin.com/in/jens-larsen-2b05a5293/).
 
 
 
