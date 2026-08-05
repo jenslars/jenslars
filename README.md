@@ -5,7 +5,7 @@ Architecture at Malmö University, a program that mixes interaction design, syst
 thinking and development. That mix stuck with me. I care as much about how software
 feels to use as about how it's built.
 
-Today I work at [Lightbringer](https://lightbringer.com) in Malmö. Most of my time
+Today I work at [Lightbringer](https://lightbringer.com) in Malmö as a fullstack engineer. Most of my time
 goes into designing and building the product that lets our AI agents do real work
 in production. That intersection is what interests me most. Agents are powerful but
 opaque, and good product design is what makes them something people actually trust
